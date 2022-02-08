@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\Desktop\\TestAPI\\API\\CoxAPITest\\CoxAPITest.csproj": {}
+    "C:\\Users\\lucas\\Desktop\\TestAPI\\coxapi-test\\CoxAPITest\\CoxAPITest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\Desktop\\TestAPI\\API\\CoxAPITest\\CoxAPITest.csproj": {
+    "C:\\Users\\lucas\\Desktop\\TestAPI\\coxapi-test\\CoxAPITest\\CoxAPITest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\Desktop\\TestAPI\\API\\CoxAPITest\\CoxAPITest.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Desktop\\TestAPI\\coxapi-test\\CoxAPITest\\CoxAPITest.csproj",
         "projectName": "CoxAPITest",
-        "projectPath": "C:\\Users\\lucas\\Desktop\\TestAPI\\API\\CoxAPITest\\CoxAPITest.csproj",
+        "projectPath": "C:\\Users\\lucas\\Desktop\\TestAPI\\coxapi-test\\CoxAPITest\\CoxAPITest.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\Desktop\\TestAPI\\API\\CoxAPITest\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\Desktop\\TestAPI\\coxapi-test\\CoxAPITest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

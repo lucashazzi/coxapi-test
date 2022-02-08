@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1dudgBLPLpBu/zcrpSDhOEVvJzLK6XzhQ1OSlPH0Qk0ohjWganhId57f4B6S90GsIZeaRIybeJ0RFcph69lCig==",
+  "dgSpecHash": "BjwkgPkfw5xzpbCOiRihtpLIkAg0imcaywhg0WewZueaFTfk4nvgSuAVOYjIrKn5NqUhQi7NiIwDQXFva+4xZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas\\Desktop\\TestAPI\\API\\CoxAPITest\\CoxAPITest.csproj",
+  "projectFilePath": "C:\\Users\\lucas\\Desktop\\TestAPI\\coxapi-test\\CoxAPITest\\CoxAPITest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
