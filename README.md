@@ -48,4 +48,4 @@ When using a filter that is a String (like a /title filter) the return will cont
 _________________________________
 
 #### Thats it!
-I know that you probably expected more, are a bit disappointed. And even if i don't pass, i want you to know that in the last week i've learnt basically everything that is in this code. I've learnt the basics of creating a WebAPI with .Net, http resiliency (the basics, tried using Polly but time was not forgiving), the concepts of caching and web requests itself! Thank you for the opportunity, and i expect to see you in the near (or not so near) future!
+Even if i don't pass, i want you to know that in the last week i've learnt basically everything that is in this code. I've learnt the basics of creating a WebAPI with .Net, http resiliency (the basics, tried using Polly but time was not forgiving), the concepts of caching and web requests itself! Thank you for the opportunity, and i expect to see you in the near (or not so near) future!
